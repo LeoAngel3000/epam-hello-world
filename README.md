@@ -1,9 +1,9 @@
 # epam-hello-world
 
+```markdown
+## Git diff
 
-Resolved conflict
-
-git diff
+```text
 diff --cc testable.txt
 index 428b97b,a042389..0000000
 --- a/testable.txt
